@@ -1,4 +1,4 @@
 ambiente: "qa"
 db_host: "https://dev.myapp.it"
 db_user: "nicolò"
-db_password: "{cypher}1d5a478ce162ffcbf316c0d704c8c3b01c39afce3bd83156e620509fc6762499"
+db_password: "{cipher}1d5a478ce162ffcbf316c0d704c8c3b01c39afce3bd83156e620509fc6762499"
