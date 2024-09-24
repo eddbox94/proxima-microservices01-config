@@ -1,1 +1,4 @@
 ambiente: "qa"
+db_host: "https://dev.myapp.it"
+db_user: "nicolò"
+db_password: "110499"
