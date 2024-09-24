@@ -2,5 +2,5 @@ build:
   version: 1.0
 ambiente: "dev"
 db_host: "https://dev.myapp.it"
-db_user: "edoardo"
+db_user: "edoardoooooooooo"
 db_password: "{cipher}8ca3ff2f0205e7174f16c82b82fdb3d7f347ea92ea460d3e36601ef2c939b712"
