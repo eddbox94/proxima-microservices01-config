@@ -1,1 +1,4 @@
 ambiente: "production"
+db_host: "https://www.dev.myapp.it"
+db_user: "roberto"
+db_password: "180459"
